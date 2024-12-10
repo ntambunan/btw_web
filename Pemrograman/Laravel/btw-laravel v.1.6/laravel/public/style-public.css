@@ -1,0 +1,27 @@
+.btn {
+    background-color: #4169e1;
+    border-color: white;
+    color: white;
+    border-width: 2px;
+}
+
+/* .btn:hover {
+    border-color: goldenrod;
+    background-color: goldenrod;
+} */
+
+.btn:hover {
+    color: #4169e1;
+    background-color: white;
+    border-color: #4169e1;
+}
+
+#title-red {
+    color: #dc1f64;
+}
+
+#login-bg {
+    background: rgb(139,93,255);
+    background: linear-gradient(0deg, rgba(139,93,255,1) 0%, rgba(86,58,156,1) 100%); 
+    color: white;
+}
